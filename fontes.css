@@ -1,0 +1,72 @@
+body{
+    background-color: #f3d597;
+}
+
+fieldset{
+    background-color: white;
+    position: absolute;
+    align-items: center;
+    top:10%;
+    left: 35%;
+    border-radius: 7%;
+    border: white;
+    padding: 95px;
+}
+
+.login{
+    padding: 15px;
+    border: none;
+    
+    background-color: #92ccb6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.password{
+    padding: 15px;
+    border: none;
+    
+    background-color: #92ccb6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.botao1{
+    background-color: #b6d89c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    border: none;
+    border-radius: 3%;
+    padding: 13px;
+    width: 91%;
+    cursor: pointer;
+
+}
+.botao1:hover{
+    background-color:#49855d;
+}
+
+.botao2:hover{
+    background-color:#49855d;
+}
+
+.botao2{
+    background-color: #b6d89c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    border: none;
+    border-radius: 3%;
+    padding: 13px;
+    width: 91%;
+    cursor: pointer;
+
+}
+
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+}
